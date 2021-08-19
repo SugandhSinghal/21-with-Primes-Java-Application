@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\r\n\ The\ tile\ class\ stores\ each\ individual\ tile\ which\ can\ be\ used\ by\ the\ player\ to\ play\ the\ game\r\n\ \r\n\ @author\ (Sugandh\ Singhal)\r\n\ @version\ (14-09-2019)\r\n
+comment1.params=
+comment1.target=Tile()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Tile\r\n
+comment2.params=newScore\ newValue
+comment2.target=Tile(int,\ int)
+comment2.text=\r\n\ Non\ Default\ Constructor\ for\ objects\ of\ class\ RNG\r\n\ \r\n\ @param\ newScore\ int\ to\ define\ the\ score\ of\ the\ Tile\r\n\ @param\ newValue\ int\ to\ define\ the\ value\ of\ the\ Tile\r\n
+comment3.params=
+comment3.target=java.lang.String\ displayTile()
+comment3.text=\r\n\ Method\ to\ display\ value\ of\ fields\r\n\ \r\n\ @return\ A\ single\ string\ which\ contains\ the\ value\ and\ the\ score\ of\ tile\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ Accessor\ Method\ to\ get\ the\ score\ of\ the\ tile\r\n\ \r\n\ @return\ A\ integer\ which\ contains\ the\ score\ of\ the\ tile\ \r\n
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=\r\n\ Accessor\ Method\ to\ get\ the\ value\ of\ the\ tile\r\n\ \r\n\ @return\ A\ integer\ which\ contains\ the\ value\ of\ the\ tile\ \r\n
+comment6.params=newTileScore
+comment6.target=void\ setScore(int)
+comment6.text=\r\n\ Mutator\ Method\ to\ set\ the\ score\ of\ the\ tile\r\n\ \r\n\ @param\ newTileScore\ integer\ to\ define\ the\ score\ of\ the\ tile\r\n
+comment7.params=newTileValue
+comment7.target=void\ setValue(int)
+comment7.text=\r\n\ Mutator\ Method\ to\ set\ the\ value\ of\ the\ tile\r\n\ \r\n\ @param\ newTileValue\ integer\ to\ define\ the\ value\ of\ the\ tile\r\n
+numComments=8

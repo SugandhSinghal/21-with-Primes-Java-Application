@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ The\ Game\ class\ manages\ the\ playing\ of\ a\ game\r\n\ \r\n\ @author\ (Sugandh\ Singhal)\r\n\ @version\ (14-09-2019)\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Game\r\n
+comment2.params=
+comment2.target=void\ starMethod()
+comment2.text=\r\n\ starMethod\ method\ -\ This\ method\ manages\ the\ main\ game\r\n\r\n\r\n
+comment3.params=
+comment3.target=int\ rngMethod()
+comment3.text=\r\n\ rngMethod\ method\ -\ This\ method\ generates\ the\ random\ value.\r\n\r\n\ @return\ A\ integer\ which\ is\ random\ number\ between\ maximum\ and\ minimum\ value.\r\n
+comment4.params=playerSwitch
+comment4.target=void\ player(boolean)
+comment4.text=\r\n\ player\ method\ -\ This\ method\ plays\ the\ games\ as\ human\ and\ computer.\r\n\r\n\ @param\ playerSwitch\ boolean\ is\ used\ to\ switch\ player\ between\ human\ and\ computer.\r\n
+numComments=5
